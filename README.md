@@ -1,16 +1,9 @@
-# notes_app_gsheets
+# Notes App Google Sheets
 
-A new Flutter project.
+Notes App with Google Sheets
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Notes_App_Google_Sheets/assets/146417248/18dba90b-3ead-48e5-a114-109fd8c373d9)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Notes_App_Google_Sheets/assets/146417248/2aa1b135-fa5b-483a-86ba-eceef635a371)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/BilalSevinc16/Notes_App_Google_Sheets/assets/146417248/6b331dd5-5011-465c-9b65-5f22f8d278f0)
